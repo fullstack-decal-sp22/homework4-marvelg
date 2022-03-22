@@ -1,8 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import './styles/Game.css';
 import Board from "./Board";
 
 function Game() {
+
+    
     
     return (
         <div className="game">
